@@ -15,3 +15,7 @@ right_eye_scrip = -4.25
 #Assign boolean variables
 hungry = true
 sleepy = true
+
+#Reassign string variables
+name = "Thomas"
+occupation = "Senior Trading Specialist"
